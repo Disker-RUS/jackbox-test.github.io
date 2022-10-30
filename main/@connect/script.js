@@ -11141,32 +11141,32 @@ var Jre = rL((Zre, OA) => {
         TextRing: M3
     };
     const U3 = [{
-            name: "Prototype",
+            name: "Prototype [ОТКЛЮЧЕНО]",
             tag: "prototype",
             wrapper: "vue",
             isPublic: !0,
             directory: "internal/prototype"
         }, {
-            name: "EcastTestClient",
+            name: "EcastTestClient [ОТКЛЮЧЕНО]",
             tag: "ecast-test-client",
             wrapper: "marionette",
             isPublic: !0,
             directory: "internal/ecast-test-client"
         }, {
-            name: "Quiplash 2 InterLASHional",
+            name: "Quiplash 2 InterLASHional [ОТКЛЮЧЕНО]",
             tag: "quiplash2-international",
             wrapper: "marionette",
             isPublic: !0,
             directory: "standalone/quiplash2-international",
             categoryId: "quiplash2-internationalGame"
         }, {
-            name: "Guesspionage Crowdplay",
+            name: "Guesspionage Crowdplay [ОТКЛЮЧЕНО]",
             tag: "guesspionage-crowdplay",
             wrapper: "marionette",
             isPublic: !0,
             directory: "standalone/guesspionage-crowdplay"
         }, {
-            name: "Drawful 2",
+            name: "Drawful 2 [ОТКЛЮЧЕНО]",
             tag: "drawful2",
             wrapper: "marionette",
             isPublic: !0,
@@ -11174,86 +11174,86 @@ var Jre = rL((Zre, OA) => {
             categoryId: "DrawfulGame",
             shopItems: ["shirts"]
         }, {
-            name: "Drawful 2",
+            name: "Drawful 2 [ОТКЛЮЧЕНО]",
             tag: "drawful2international",
             wrapper: "marionette",
             isPublic: !0,
             directory: "standalone/drawful2-international",
             features: ["moderation"]
         }, {
-            name: "Acquisitions, Inc.",
+            name: "Acquisitions, Inc. [ОТКЛЮЧЕНО]",
             tag: "acquisitions-inc",
             wrapper: "marionette",
             isPublic: !0,
             directory: "standalone/acquisitions-inc"
         }, {
-            name: "You Don't Know Jack 2015",
+            name: "You Don't Know Jack 2015 [ОТКЛЮЧЕНО]",
             tag: "ydkj2015",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp1/ydkj2015"
         }, {
-            name: "Drawful",
+            name: "Drawful [ОТКЛЮЧЕНО]",
             tag: "drawful",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp1/drawful"
         }, {
-            name: "Word Spud",
+            name: "Word Spud [ОТКЛЮЧЕНО]",
             tag: "wordspud",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp1/wordspud"
         }, {
-            name: "Lie Swatter",
+            name: "Lie Swatter [ОТКЛЮЧЕНО]",
             tag: "lieswatter",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp1/lieswatter"
         }, {
-            name: "Fibbage",
+            name: "Fibbage [ОТКЛЮЧЕНО]",
             tag: "fibbage",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp1/fibbage"
         }, {
-            name: "Fibbage 2",
+            name: "Fibbage 2 [ОТКЛЮЧЕНО]",
             tag: "fibbage2",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp2/fibbage2"
         }, {
-            name: "Earwax",
+            name: "Earwax [ОТКЛЮЧЕНО]",
             tag: "earwax",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp2/earwax"
         }, {
-            name: "Bidiots",
+            name: "Bidiots [ОТКЛЮЧЕНО]",
             tag: "auction",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp2/auction"
         }, {
-            name: "Bomb Corp",
+            name: "Bomb Corp [ОТКЛЮЧЕНО]",
             tag: "bombintern",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp2/bombintern"
         }, {
-            name: "Quiplash",
+            name: "Quiplash [ОТКЛЮЧЕНО]",
             tag: "quiplash",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp2/quiplash"
         }, {
-            name: "Fakin' It",
+            name: "Fakin' It [ОТКЛЮЧЕНО]",
             tag: "fakinit",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp3/fakinit"
         }, {
-            name: "Tee K.O.",
+            name: "Tee K.O. [ОТКЛЮЧЕНО]",
             tag: "awshirt",
             wrapper: "marionette",
             isPublic: !0,
@@ -11261,54 +11261,54 @@ var Jre = rL((Zre, OA) => {
             categoryId: "TeeKOGame",
             shopItems: ["shirts"]
         }, {
-            name: "Quiplash 2",
+            name: "Quiplash 2 [ОТКЛЮЧЕНО]",
             tag: "quiplash2",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp3/quiplash2",
             categoryId: "Quiplash2Game"
         }, {
-            name: "Trivia Murder Party",
+            name: "Trivia Murder Party [ОТКЛЮЧЕНО]",
             tag: "triviadeath",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp3/triviadeath",
             categoryId: "TriviaDeathResults"
         }, {
-            name: "Guesspionage",
+            name: "Guesspionage [ОТКЛЮЧЕНО]",
             tag: "pollposition",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp3/pollposition"
         }, {
-            name: "Fibbage 3",
+            name: "Fibbage 3 [ОТКЛЮЧЕНО]",
             tag: "fibbage3",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp4/fibbage3"
         }, {
-            name: "Survive the Internet",
+            name: "Survive the Internet [ОТКЛЮЧЕНО]",
             tag: "survivetheinternet",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp4/survivetheinternet",
             categoryId: "STIGame"
         }, {
-            name: "Monster Seeking Monster",
+            name: "Monster Seeking Monster [ОТКЛЮЧЕНО]",
             tag: "monstermingle",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp4/monstermingle",
             categoryId: "MonsterMingleGame"
         }, {
-            name: "Bracketeering",
+            name: "Bracketeering [ОТКЛЮЧЕНО]",
             tag: "bracketeering",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp4/bracketeering",
             categoryId: "BRKGame"
         }, {
-            name: "Civic Doodle",
+            name: "Civic Doodle [ОТКЛЮЧЕНО]",
             tag: "overdrawn",
             wrapper: "marionette",
             isPublic: !0,
@@ -11316,35 +11316,35 @@ var Jre = rL((Zre, OA) => {
             categoryId: "OverdrawnGame",
             shopItems: ["shirts"]
         }, {
-            name: "You Don't Know Jack: Full Stream",
+            name: "You Don't Know Jack: Full Stream [ОТКЛЮЧЕНО]",
             tag: "ydkj2018",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp5/ydkj2018",
             categoryId: "YDKJ2018Game"
         }, {
-            name: "Split the Room",
+            name: "Split the Room [ОТКЛЮЧЕНО]",
             tag: "splittheroom",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp5/splittheroom",
             categoryId: "SplitTheRoomGame"
         }, {
-            name: "Mad Verse City",
+            name: "Mad Verse City [ОТКЛЮЧЕНО]",
             tag: "rapbattle",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp5/rapbattle",
             categoryId: "RapBattleGame"
         }, {
-            name: "Zeeple Dome",
+            name: "Zeeple Dome [ОТКЛЮЧЕНО]",
             tag: "slingshoot",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp5/slingshoot",
             categoryId: "SlingShootGame"
         }, {
-            name: "Patently Stupid",
+            name: "Patently Stupid [ОТКЛЮЧЕНО]",
             tag: "patentlystupid",
             wrapper: "marionette",
             isPublic: !0,
@@ -11352,14 +11352,14 @@ var Jre = rL((Zre, OA) => {
             categoryId: "PatentlyStupidGame",
             shopItems: ["mugs"]
         }, {
-            name: "Trivia Murder Party 2",
+            name: "Trivia Murder Party 2 [ОТКЛЮЧЕНО]",
             tag: "triviadeath2",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp6/triviadeath2",
             categoryId: "TriviaDeath2Game"
         }, {
-            name: "Role Models",
+            name: "Role Models [ОТКЛЮЧЕНО]",
             tag: "rolemodels",
             wrapper: "marionette",
             isPublic: !0,
@@ -11368,28 +11368,28 @@ var Jre = rL((Zre, OA) => {
             categoryId: "RoleModelsGame",
             shopItems: ["shirts"]
         }, {
-            name: "Joke Boat",
+            name: "Joke Boat [ОТКЛЮЧЕНО]",
             tag: "jokeboat",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp6/jokeboat",
             categoryId: "JokeboatGame"
         }, {
-            name: "Dictionarium",
+            name: "Dictionarium [ОТКЛЮЧЕНО]",
             tag: "ridictionary",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp6/ridictionary",
             categoryId: "RidictionaryGame"
         }, {
-            name: "Push the Button",
+            name: "Push the Button [ОТКЛЮЧЕНО]",
             tag: "pushthebutton",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp6/pushthebutton",
             categoryId: "PushTheButtonGame"
         }, {
-            name: "Talking Points",
+            name: "Talking Points [ОТКЛЮЧЕНО]",
             tag: "jackbox-talks",
             wrapper: "marionette",
             isPublic: !0,
@@ -11397,7 +11397,7 @@ var Jre = rL((Zre, OA) => {
             features: ["camera", "moderation"],
             categoryId: "JackboxTalksGame"
         }, {
-            name: "Quiplash 3",
+            name: "Quiplash 3 [ОТКЛЮЧЕНО]",
             tag: "quiplash3",
             wrapper: "marionette",
             isPublic: !0,
@@ -11405,7 +11405,7 @@ var Jre = rL((Zre, OA) => {
             features: ["moderation"],
             categoryId: "quiplash3Game"
         }, {
-            name: "The Devils and the Details",
+            name: "The Devils and the Details [ОТКЛЮЧЕНО]",
             tag: "everyday",
             wrapper: "marionette",
             isPublic: !0,
@@ -11413,7 +11413,7 @@ var Jre = rL((Zre, OA) => {
             categoryId: "EverydayGame",
             shopItems: ["mugs"]
         }, {
-            name: "Champ'd Up",
+            name: "Champ'd Up [ОТКЛЮЧЕНО]",
             tag: "worldchamps",
             wrapper: "marionette",
             isPublic: !0,
@@ -11422,14 +11422,14 @@ var Jre = rL((Zre, OA) => {
             categoryId: "WorldChampionsGame",
             shopItems: ["cards"]
         }, {
-            name: "Blather 'Round",
+            name: "Blather 'Round [ОТКЛЮЧЕНО]",
             tag: "blanky-blank",
             wrapper: "marionette",
             isPublic: !0,
             directory: "pp7/blanky-blank",
             categoryId: "BlankyBlankGame"
         }, {
-            name: "Job Job",
+            name: "Job Job [ОТКЛЮЧЕНО]",
             tag: "apply-yourself",
             wrapper: "vue",
             isPublic: !0,
@@ -11437,7 +11437,7 @@ var Jre = rL((Zre, OA) => {
             categoryId: "JobGameGame",
             features: ["moderation", "previews"]
         }, {
-            name: "Drawful Animate",
+            name: "Drawful Animate [ОТКЛЮЧЕНО]",
             tag: "drawful-animate",
             wrapper: "vue",
             isPublic: !0,
@@ -11452,14 +11452,14 @@ var Jre = rL((Zre, OA) => {
             directory: "pp8/the-wheel",
             categoryId: "TheWheelGame"
         }, {
-            name: "The Poll Mine",
+            name: "The Poll Mine [ОТКЛЮЧЕНО]",
             tag: "survey-bomb",
             wrapper: "vue",
             isPublic: !0,
             directory: "pp8/survey-bomb",
             categoryId: "SurveyBombGame"
         }, {
-            name: "Weapons Drawn",
+            name: "Weapons Drawn [ОТКЛЮЧЕНО]",
             tag: "murder-detectives",
             wrapper: "vue",
             isPublic: !0,
@@ -11467,7 +11467,7 @@ var Jre = rL((Zre, OA) => {
             categoryId: "MurderDetectivesGame",
             features: ["moderation"]
         }, {
-            name: "Quiplash 3",
+            name: "Quiplash 3 [ОТКЛЮЧЕНО]",
             tag: "quiplash3-tjsp",
             wrapper: "vue",
             isPublic: !0,
@@ -11475,7 +11475,7 @@ var Jre = rL((Zre, OA) => {
             features: ["moderation"],
             categoryId: "quiplash3Game"
         }, {
-            name: "Tee K.O.",
+            name: "Tee K.O. [ОТКЛЮЧЕНО]",
             tag: "awshirt-tjsp",
             wrapper: "vue",
             isPublic: !0,
@@ -11484,7 +11484,7 @@ var Jre = rL((Zre, OA) => {
             shopItems: ["shirts"],
             categoryId: "TeeKOGame"
         }, {
-            name: "Trivia Murder Party 2",
+            name: "Trivia Murder Party 2 [ОТКЛЮЧЕНО]",
             tag: "triviadeath2-tjsp",
             wrapper: "vue",
             isPublic: !0,
@@ -24446,28 +24446,28 @@ ${t}`
             TITLE: "YOUR PAST GAMES"
         },
         Tee = {
-            TITLE: "RECENT GAMES",
+            TITLE: "НЕДАВНИЕ ИГРЫ",
             VIEW_ALL: {
                 BUTTON: "VIEW ALL",
                 LINK: "VIEW ALL PAST GAMES"
             }
         },
         See = {
-            GAME_FULL: "Game is full",
-            GAME_STARTED: "Game has started",
-            ROOM_NOT_FOUND: "Room not found"
+            GAME_FULL: "Комната заполнена",
+            GAME_STARTED: "Игра уже началась",
+            ROOM_NOT_FOUND: "Комната не найдена"
         },
         Oee = {
             GAME_FULL: "GAME IS FULL",
             GAME_STARTED: "GAME HAS STARTED",
-            JOIN_AUDIENCE: "JOIN AUDIENCE",
-            RECONNECT: "RECONNECT",
+            JOIN_AUDIENCE: "ВОЙТИ КАК ЗРИТЕЛЬ",
+            RECONNECT: "ПЕРЕПОДКЛЮЧИТЬСЯ",
             TWITCH_LOGIN: "LOGIN WITH TWITCH"
         },
         Aee = {
             CAMERA: "[b]HEADS UP:[/b] We\u2019re not detecting a camera, but you can still play the game without a photo. If this seems wrong, try joining with a different browser.",
             STYLE: "[b]HEADS UP:[/b] Your browser seems a bit outdated, and will have some issues displaying this game.",
-            TOS: "By clicking {submit}, you agree to our [tos]Terms of Service[/tos]"
+            TOS: "Нажимая {submit}, вы соглашаетесь с [tos]Условиями Пользования[/tos]"
         },
         Iee = {
             BRANCH: gee,
