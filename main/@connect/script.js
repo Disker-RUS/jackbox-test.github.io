@@ -11445,7 +11445,7 @@ var Jre = rL((Zre, OA) => {
             categoryId: "DrawfulAnimateGame",
             features: ["moderation"]
         }, {
-            name: "The Wheel of Enormous Proportions",
+            name: "The Wheel of Enormous Proportions [ОТКЛЮЧЕНО]",
             tag: "the-wheel",
             wrapper: "vue",
             isPublic: !0,
