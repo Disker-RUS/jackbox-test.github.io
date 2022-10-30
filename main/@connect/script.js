@@ -24402,28 +24402,28 @@ ${t}`
             FILTER_NAME: "This game has profanity filters enabled. Please pick a different name."
         },
         vee = {
-            NAME: "NAME",
-            NAME_PLACEHOLDER: "ENTER YOUR NAME",
-            PASSWORD_PLACEHOLDER: "ENTER 5-DIGIT PASSWORD",
-            PASSWORD_REQUIRED_TITLE: "Password required",
-            PASSWORD_REQUIRED_BODY: "Please enter the password or join as an audience member",
-            PASSWORD_JOIN_AS_PLAYER: "Join as Player",
-            PASSWORD_JOIN_AS_AUDIENCE: "Join Audience",
-            ROOM_CODE: "ROOM CODE",
-            ROOM_CODE_PLACEHOLDER: "ENTER 4-LETTER CODE"
+            NAME: "ИМЯ",
+            NAME_PLACEHOLDER: "ВАШЕ ИМЯ",
+            PASSWORD_PLACEHOLDER: "5-ЗНАЧНЫЙ ПАРОЛЬ",
+            PASSWORD_REQUIRED_TITLE: "Требуется пароль",
+            PASSWORD_REQUIRED_BODY: "Пожалуйста, введите пароль или присоединяйтесь в качестве зрителя",
+            PASSWORD_JOIN_AS_PLAYER: "Войти как игрок",
+            PASSWORD_JOIN_AS_AUDIENCE: "Войти как зритель",
+            ROOM_CODE: "КОД КОМНАТЫ",
+            ROOM_CODE_PLACEHOLDER: "4-БУКВЕННЫЙ КОД"
         },
         Eee = "Link to Jackbox Games Homepage",
         _ee = {
             APPEARANCE: "APPEARANCE",
             DARK: "dark",
-            HELP: "HELP",
+            HELP: "ПОМОЩЬ",
             TWITCH: "TWITCH",
             LIGHT: "light",
             LOGOUT: "LOGOUT",
-            MERCH: "MERCH",
-            PAST_GAMES: "PAST GAMES",
+            MERCH: "МАГАЗИН",
+            PAST_GAMES: "ПРОШЛЫЕ ИГРЫ",
             MAILING_LIST: "MAILING LIST",
-            MODERATOR: "MODERATOR"
+            MODERATOR: "МОДЕРАТОР"
         },
         yee = {
             CALL_TO_ACTION: {
@@ -24433,15 +24433,15 @@ ${t}`
             NEW: "NEW",
             PLAYED_ON: "PLAYED ON",
             REMOVE: {
-                CONFIRM: "Are you sure?",
-                DESCRIPTION: `This will permanently remove this game
-from your past games list.`,
-                MANAGE: "Remove Game?",
-                TITLE: "Are You Sure?"
+                CONFIRM: "Вы уверены?",
+                DESCRIPTION: `Вы навсегда уберёте
+эту игру из списка.`,
+                MANAGE: "Убрать игру?",
+                TITLE: "Вы уверены?"
             }
         },
         bee = {
-            EMPTY: "No Past Games Yet",
+            EMPTY: "Пока нет игр",
             MANAGE: "MANAGE",
             TITLE: "YOUR PAST GAMES"
         },
