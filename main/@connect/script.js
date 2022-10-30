@@ -13066,7 +13066,7 @@ ${n.message}`,
             if (!ke.isSupported) return;
             const t = KS();
             ke.set("twitchState", t);
-            const n = "yn2iepd23vskpmkzgeg2lkfsct7gsc";
+            const n = "inwcxqkhikwet555hta1pviakgt8pq";
             let r = `https://${window.location.hostname}`;
             window.location.hostname === "localhost" && (r = "http://localhost:9090/");
             let s = "https://id.twitch.tv/oauth2/authorize";
