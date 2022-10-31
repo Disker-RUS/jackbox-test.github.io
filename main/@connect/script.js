@@ -11505,7 +11505,7 @@ var Jre = rL((Zre, OA) => {
             directory: "pp9/htmf",
             features: ["moderation", "kicking"]
         }, {
-            name: "Хламтопия",
+            name: "Junktopia РУС.",
             tag: "antique-freak",
             wrapper: "vue",
             isPublic: !0,
@@ -24442,7 +24442,7 @@ ${t}`
         },
         bee = {
             EMPTY: "Пока нет игр",
-            MANAGE: "MANAGE",
+            MANAGE: "ОЧИСТКА",
             TITLE: "ВАШИ ПРОШЛЫЕ ИГРЫ"
         },
         Tee = {
