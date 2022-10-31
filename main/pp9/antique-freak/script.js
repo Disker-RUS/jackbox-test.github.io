@@ -161,7 +161,7 @@ var Tie = rR((Oie, Sw) => {
         },
         hR = /-(\w)/g,
         On = fc(e => e.replace(hR, (t, r) => r ? r.toUpperCase() : "")),
-        pR = /\B([A-Z])/g,
+        pR = /\B([A-ZА-ЯЁ])/g,
         os = fc(e => e.replace(pR, "-$1").toLowerCase()),
         dc = fc(e => e.charAt(0).toUpperCase() + e.slice(1)),
         ff = fc(e => e ? `on${dc(e)}` : ""),
@@ -8969,7 +8969,7 @@ ${r}`,
                     stringify: _,
                     parse: b
                 },
-                P = /^[A-Za-z][A-Za-z0-9+-.]*:\/\//,
+                P = /^[A-ZА-ЯЁa-zа-яё][A-ZА-ЯЁa-zа-яё0-9+-.]*:\/\//,
                 M = /^([a-z][a-z0-9.+-]*:)?(\/\/)?([\\/]+)?([\S\s]*)/i,
                 U = "[\\x09\\x0A\\x0B\\x0C\\x0D\\x20\\xA0\\u1680\\u180E\\u2000\\u2001\\u2002\\u2003\\u2004\\u2005\\u2006\\u2007\\u2008\\u2009\\u200A\\u202F\\u205F\\u3000\\u2028\\u2029\\uFEFF]",
                 C = new RegExp("^" + U + "+");
@@ -11425,7 +11425,7 @@ ${r.message}`,
                 Jw = "\\x00-\\x2f\\x3a-\\x40\\x5b-\\x60\\x7b-\\xbf",
                 Qw = "\\u2000-\\u206f",
                 Zw = " \\t\\x0b\\f\\xa0\\ufeff\\n\\r\\u2028\\u2029\\u1680\\u180e\\u2000\\u2001\\u2002\\u2003\\u2004\\u2005\\u2006\\u2007\\u2008\\u2009\\u200a\\u202f\\u205f\\u3000",
-                qp = "A-Z\\xc0-\\xd6\\xd8-\\xde",
+                qp = "A-ZА-ЯЁ\\xc0-\\xd6\\xd8-\\xde",
                 Yp = "\\ufe0e\\ufe0f",
                 zp = Xw + Jw + Qw + Zw,
                 eu = "['\u2019]",
@@ -11450,8 +11450,8 @@ ${r.message}`,
                 sg = r0 + "?",
                 ag = "[" + Yp + "]?",
                 i0 = "(?:" + tg + "(?:" + [eg, ru, nu].join("|") + ")" + ag + sg + ")*",
-                s0 = "\\d*(?:1st|2nd|3rd|(?![123])\\dth)(?=\\b|[A-Z_])",
-                a0 = "\\d*(?:1ST|2ND|3RD|(?![123])\\dTH)(?=\\b|[a-z_])",
+                s0 = "\\d*(?:1st|2nd|3rd|(?![123])\\dth)(?=\\b|[A-ZА-ЯЁ_])",
+                a0 = "\\d*(?:1ST|2ND|3RD|(?![123])\\dTH)(?=\\b|[a-zа-яё_])",
                 og = ag + sg + i0,
                 o0 = "(?:" + [t0, ru, nu].join("|") + ")" + og,
                 l0 = "(?:" + [eg + Co + "?", Co, ru, nu, e0].join("|") + ")",
@@ -11460,7 +11460,7 @@ ${r.message}`,
                 iu = RegExp(tu + "(?=" + tu + ")|" + l0 + og, "g"),
                 f0 = RegExp([fs + "?" + Qp + "+" + ng + "(?=" + [Xp, fs, "$"].join("|") + ")", n0 + "+" + ig + "(?=" + [Xp, fs + rg, "$"].join("|") + ")", fs + "?" + rg + "+" + ng, fs + "+" + ig, a0, s0, Jp, o0].join("|"), "g"),
                 d0 = RegExp("[" + tg + $o + Hp + Yp + "]"),
-                h0 = /[a-z][A-Z]|[A-Z]{2}[a-z]|[0-9][a-zA-Z]|[a-zA-Z][0-9]|[^a-zA-Z0-9 ]/,
+                h0 = /[a-zа-яё][A-ZА-ЯЁ]|[A-ZА-ЯЁ]{2}[a-zа-яё]|[0-9][a-zа-яёA-ZА-ЯЁ]|[a-zа-яёA-ZА-ЯЁ][0-9]|[^a-zа-яёA-ZА-ЯЁ0-9 ]/,
                 p0 = ["Array", "Buffer", "DataView", "Date", "Error", "Float32Array", "Float64Array", "Function", "Int8Array", "Int16Array", "Int32Array", "Map", "Math", "Object", "Promise", "RegExp", "Set", "String", "Symbol", "TypeError", "Uint8Array", "Uint8ClampedArray", "Uint16Array", "Uint32Array", "WeakMap", "_", "clearTimeout", "isFinite", "parseInt", "setTimeout"],
                 g0 = -1,
                 bt = {};
@@ -17676,7 +17676,7 @@ function print() { __p += __j.call(arguments, '') }
                     return new ti.Token(ti.Token.Type.startTag, r, n, t[0])
                 }
                 return new ti.Token(ti.Token.Type.endTag, t[1].substr(1, t[1].length - 1))
-            }, e.nameChars = "[a-zA-Z0-9\\.\\-_:;/]", e.valueChars = "[a-zA-Z0-9\\.\\-_:;#/\\s]", e
+            }, e.nameChars = "[a-zа-яёA-ZА-ЯЁ0-9\\.\\-_:;/]", e.valueChars = "[a-zа-яёA-ZА-ЯЁ0-9\\.\\-_:;#/\\s]", e
         }();
     jc.Tokenizer = FY;
     (function(e) {
