@@ -11505,7 +11505,7 @@ var Jre = rL((Zre, OA) => {
             directory: "pp9/htmf",
             features: ["moderation", "kicking"]
         }, {
-            name: "Junktopia",
+            name: "Хламтопия",
             tag: "antique-freak",
             wrapper: "vue",
             isPublic: !0,
@@ -13099,7 +13099,7 @@ ${n.message}`,
                 const r = await (await fetch("https://api.twitch.tv/helix/users", {
                     headers: {
                         Authorization: `Bearer ${t}`,
-                        "Client-ID": "yn2iepd23vskpmkzgeg2lkfsct7gsc"
+                        "Client-ID": "inwcxqkhikwet555hta1pviakgt8pq"
                     }
                 })).json();
                 if (!r || !r.data) return null;
@@ -13117,7 +13117,7 @@ ${n.message}`,
             CONFIRM: "Confirm",
             CREATE: "Create",
             DELETE: "Delete",
-            DONE: "Done",
+            DONE: "Готово",
             EDIT: "Edit",
             OK: "OK",
             NO: "No",
@@ -24428,10 +24428,10 @@ ${t}`
         yee = {
             CALL_TO_ACTION: {
                 SHOP: "VIEW GAME & SHOP",
-                VIEW: "VIEW THIS GAME"
+                VIEW: "ЭТА ИГРА"
             },
-            NEW: "NEW",
-            PLAYED_ON: "PLAYED ON",
+            NEW: "НОВИНКА",
+            PLAYED_ON: "ДАТА ИГРЫ",
             REMOVE: {
                 CONFIRM: "Вы уверены?",
                 DESCRIPTION: `Вы навсегда уберёте
@@ -24443,12 +24443,12 @@ ${t}`
         bee = {
             EMPTY: "Пока нет игр",
             MANAGE: "MANAGE",
-            TITLE: "YOUR PAST GAMES"
+            TITLE: "ВАШИ ПРОШЛЫЕ ИГРЫ"
         },
         Tee = {
             TITLE: "НЕДАВНИЕ ИГРЫ",
             VIEW_ALL: {
-                BUTTON: "VIEW ALL",
+                BUTTON: "ВСЕ",
                 LINK: "VIEW ALL PAST GAMES"
             }
         },
