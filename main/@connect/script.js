@@ -11505,7 +11505,7 @@ var Jre = rL((Zre, OA) => {
             directory: "pp9/htmf",
             features: ["moderation", "kicking"]
         }, {
-            name: "Junktopia РУС.",
+            name: "Хламтопия",
             tag: "antique-freak",
             wrapper: "vue",
             isPublic: !0,
