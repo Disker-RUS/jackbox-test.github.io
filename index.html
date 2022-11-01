@@ -1,15 +1,6 @@
 <!DOCTYPE html>
 <html lang="en-US" class="js">
 
-    <IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /
-RewriteRule ^index.html$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.html [L]
-</IfModule>
-    
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
