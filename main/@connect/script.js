@@ -12923,7 +12923,7 @@ var Jre = rL((Zre, OA) => {
                     TV_ADROLL_PIXEL_ID: "WN335VM7RVAMPDZAOWMIHP",
                     TV_CDN_IMAGES_URL: "https://s3.amazonaws.com/static.jackboxgames.com/game-images",
                     TV_DEBUG: "false",
-                    TV_DOMAINS: "https://dev.jackbox.tv,https://qa.jackbox.tv,https://jackbox.tv,https://tinyshirts.jackboxgames.com",
+                    TV_DOMAINS: "https://jackbox.site,https://www.jackbox.site",
                     TV_ECAST: "ecast.jackboxgames.com",
                     TV_GA_STREAM_ID: "3795853220",
                     TV_GA_MEASUREMENT_ID: "G-V1QJVQMYF1",
@@ -12934,7 +12934,7 @@ var Jre = rL((Zre, OA) => {
                     TV_SENTRY_RATE: "0.2",
                     TV_SLACK_DEBUG: "https://hooks.slack.com/services/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",
                     TV_TWITCH_CLIENT_ID: "inwcxqkhikwet555hta1pviakgt8pq",
-                    BASE_URL: "https://bundles.jackbox.tv/main/@connect/",
+                    BASE_URL: "https://jackbox.site/main/@connect/",
                     MODE: "production",
                     DEV: !1,
                     PROD: !0
