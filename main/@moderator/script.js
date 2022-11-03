@@ -13722,15 +13722,15 @@ ${r.message}`,
             FILTER_NAME: "This game has profanity filters enabled. Please pick a different name."
         },
         c4 = {
-            NAME: "NAME",
-            NAME_PLACEHOLDER: "ENTER YOUR NAME",
-            PASSWORD_PLACEHOLDER: "ENTER 5-DIGIT PASSWORD",
-            PASSWORD_REQUIRED_TITLE: "Password required",
-            PASSWORD_REQUIRED_BODY: "Please enter the password or join as an audience member",
-            PASSWORD_JOIN_AS_PLAYER: "Join as Player",
-            PASSWORD_JOIN_AS_AUDIENCE: "Join Audience",
-            ROOM_CODE: "ROOM CODE",
-            ROOM_CODE_PLACEHOLDER: "ENTER 4-LETTER CODE"
+            NAME: "ИМЯ",
+            NAME_PLACEHOLDER: "ВАШЕ ИМЯ",
+            PASSWORD_PLACEHOLDER: "5-ЗНАЧНЫЙ ПАРОЛЬ",
+            PASSWORD_REQUIRED_TITLE: "Требуется пароль",
+            PASSWORD_REQUIRED_BODY: "Пожалуйста, введите пароль или войдите как зритель",
+            PASSWORD_JOIN_AS_PLAYER: "Войти как игрок",
+            PASSWORD_JOIN_AS_AUDIENCE: "Войти как зритель",
+            ROOM_CODE: "КОД КОМНАТЫ",
+            ROOM_CODE_PLACEHOLDER: "4-БУКВЕННЫЙ КОД"
         },
         l4 = "Link to Jackbox Games Homepage",
         u4 = {
@@ -25114,11 +25114,11 @@ ${t}`
             PASSWORD: "PASSWORD"
         },
         nre = {
-            KICK: "Kick?",
-            KICK_PLAYERS: "KICK PLAYERS",
-            MODERATE: "Moderate",
-            APPROVE_ALL: "Approve All",
-            REJECT_ALL: "Reject All"
+            KICK: "Выгнать?",
+            KICK_PLAYERS: "ВЫГНАТЬ ИГРОКОВ",
+            MODERATE: "Модерировать",
+            APPROVE_ALL: "Одобрить всё",
+            REJECT_ALL: "Запретить всё"
         },
         ire = {
             ROOM_DESTROYED: "Thanks for helping out!"
