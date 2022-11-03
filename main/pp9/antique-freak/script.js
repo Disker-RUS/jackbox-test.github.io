@@ -10369,7 +10369,7 @@ ${r.message}`,
             PUBLISH: "Publish",
             REMOVE: "Remove",
             RESET: "Reset",
-            SUBMIT: "Submit",
+            SUBMIT: "Ввести",
             TRY_AGAIN: "Try Again",
             UNDO: "Undo",
             YES: "Yes"
@@ -10383,30 +10383,30 @@ ${r.message}`,
             }
         },
         b3 = {
-            DISCONNECTED: "You have been disconnected.",
-            DRAWING_NOTHING: "You have to draw something!",
-            PLAYER_KICKED: "You have been kicked from the game by a moderator.",
-            ROOM_DESTROYED: "Thanks for playing!",
-            ROOM_DISCONNECTED: "Disconnected",
-            TEXT_NAUGHTY: "I\u2019m afraid you can\u2019t write that. Please be respectful of other players.",
-            TEXT_NOTHING: "You can\u2019t enter nothing!",
+            DISCONNECTED: "Вы были отключены.",
+            DRAWING_NOTHING: "Вам нужно что-то нарисовать!",
+            PLAYER_KICKED: "Модератор выгнал вас из игры.",
+            ROOM_DESTROYED: "Спасибо за игру!",
+            ROOM_DISCONNECTED: "Отключено",
+            TEXT_NAUGHTY: "Такое здесь нельзя писать. Будьте уважительны к другим игрокам.",
+            TEXT_NOTHING: "Вам нужно что-то вписать!",
             TITLE: "Error"
         },
         T3 = "LOADING",
         S3 = {
-            JOINED_COUNT: "x | {count} of {maxPlayers} players joined | {count} of {maxPlayers} players joined",
-            PLAYERS_NEEDED: "x | {count} player needed to start | {count} players needed to start",
-            WAITING_FOR_VIP: "Waiting for {name} to start the game",
-            WAITING_FOR_GAMEPAD: "Waiting for the game to start",
+            JOINED_COUNT: "x | {count} из {maxPlayers} игроков присоединились | {count} из {maxPlayers} игроков присоединились",
+            PLAYERS_NEEDED: "x | {count} игроков нужно для старта | {count} игроков нужно для старта",
+            WAITING_FOR_VIP: "Ждём, когда {name} начнёт игру",
+            WAITING_FOR_GAMEPAD: "Ждём, когда начнёт игру",
             GAME_STARTING: "Game is starting",
             BUTTON_START: "Press to Start",
             BUTTON_CANCEL: "Press to Cancel"
         },
         O3 = {
-            GALLERY_LINK: "Visit the Gallery",
-            PLAY_AGAIN: "Play again?",
-            BUTTON_SAME_PLAYERS: "Same Players",
-            BUTTON_NEW_PLAYERS: "New Players"
+            GALLERY_LINK: "Посетить галерею",
+            PLAY_AGAIN: "Ещё раз?",
+            BUTTON_SAME_PLAYERS: "Те же игроки",
+            BUTTON_NEW_PLAYERS: "Новые игроки"
         },
         w3 = {
             AND: "AND",
@@ -25041,25 +25041,25 @@ ${t}`
             })
         },
         Rte = {
-            AUDIENCE_THANKS: "Thanks!"
+            AUDIENCE_THANKS: "Спасибо!"
         },
         Pte = {
             INFO: "Fact {current}/{max}",
-            PLACEHOLDER: "write here",
-            WRITE_SOMETHING: "You need to write something!",
-            FILTER_ERROR: "Your entry contains prohibited language. Try again!"
+            PLACEHOLDER: "Пишите здесь",
+            WRITE_SOMETHING: "Вам нужно что-то написать!",
+            FILTER_ERROR: "Написанное вами содержит запрещённую лексику. Попробуйте снова!"
         },
         Lte = {
-            AVATAR_SELECT_PROMPT: "Choose your accessory!",
-            PRESENTATION_CHOICE_YES: "Manually Present",
-            PRESENTATION_CHOICE_NO: "Auto-Present",
-            PRESENTATION_MODE: "Presentation Mode:",
-            PRESENTATION_PROMPT: "How does your group want to showcase their writing?",
-            ON: "On",
-            OFF: "Off"
+            AVATAR_SELECT_PROMPT: "Выберите свой аксессуар!",
+            PRESENTATION_CHOICE_YES: "Самостоятельно",
+            PRESENTATION_CHOICE_NO: "Автоматически",
+            PRESENTATION_MODE: "Режим презентации:",
+            PRESENTATION_PROMPT: "Как игроки хотят презентовать свои предметы?",
+            ON: "Вкл.",
+            OFF: "Выкл."
         },
         kte = {
-            UP_NEXT: "Up next"
+            UP_NEXT: "Далее"
         },
         Dte = {
             CHOOSING: Rte,
