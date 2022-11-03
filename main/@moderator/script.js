@@ -11429,7 +11429,7 @@ var Nie = eL(($ie, bA) => {
             directory: "pp9/htmf",
             features: ["moderation", "kicking"]
         }, {
-            name: "Junktopia",
+            name: "Хламтопия",
             tag: "antique-freak",
             wrapper: "vue",
             isPublic: !0,
@@ -25110,8 +25110,8 @@ ${t}`
         }
     });
     const rre = {
-            GAME: "Game",
-            PASSWORD: "PASSWORD"
+            GAME: "Игра",
+            PASSWORD: "ПАРОЛЬ"
         },
         nre = {
             KICK: "Выгнать?",
