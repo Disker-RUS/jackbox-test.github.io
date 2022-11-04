@@ -10395,9 +10395,9 @@ ${r.message}`,
         T3 = "LOADING",
         S3 = {
             JOINED_COUNT: "x | {count} из {maxPlayers} игроков присоединились | {count} из {maxPlayers} игроков присоединились",
-            PLAYERS_NEEDED: "x | {count} игроков нужно для старта | {count} игроков нужно для старта",
+            PLAYERS_NEEDED: "x | Требуется игроков для старта: {count} | Требуется игроков для старта: {count}",
             WAITING_FOR_VIP: "Ждём, когда {name} начнёт игру",
-            WAITING_FOR_GAMEPAD: "Ждём, когда начнёт игру",
+            WAITING_FOR_GAMEPAD: "Ждём начала игры",
             GAME_STARTING: "Игра начинается",
             BUTTON_START: "Нажмите, что начать",
             BUTTON_CANCEL: "Нажмите, что отменить"
@@ -10418,7 +10418,7 @@ ${r.message}`,
             BUTTON_DONE: "Let\u2019s Go!"
         },
         C3 = {
-            NAME: "AUDIENCE"
+            NAME: "ЗРИТЕЛИ"
         },
         I3 = {
             EPISODE_REPORT: "Report Episode",
