@@ -10399,8 +10399,8 @@ ${r.message}`,
             WAITING_FOR_VIP: "Ждём, когда {name} начнёт игру",
             WAITING_FOR_GAMEPAD: "Ждём начала игры",
             GAME_STARTING: "Игра начинается",
-            BUTTON_START: "Нажмите, что начать",
-            BUTTON_CANCEL: "Нажмите, что отменить"
+            BUTTON_START: "Нажмите, чтобы начать",
+            BUTTON_CANCEL: "Нажмите, чтобы отменить"
         },
         O3 = {
             GALLERY_LINK: "Посетить галерею",
